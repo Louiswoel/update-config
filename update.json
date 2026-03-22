@@ -1,12 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0.0",
+  "versionCode": 101,
+  "versionName": "1.0.1",
   "forceUpdate": true,
-  "updateLog": "首个正式版本",
-  "apkUrl": "https://wwbfc.lanzn.com/sydmw",
-
-  "noticeVersion":9,
-  "noticeTitle": "魔王法旨",
-  "noticeContent": "今日法旨：pp我告诉你，我可是你的魔王陛下。",
-  "noticeButton": "接旨"
+  "updateLog": "修复若干问题",
+  "apkUrl": "https://wwbfc.lanzn.com/sydmw"
 }
